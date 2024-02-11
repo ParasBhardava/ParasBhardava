@@ -6,16 +6,7 @@
 
 <p align="justify">I'm Paras Bhardava. Welcome to my GitHub profile! I'm a passionate software engineer, Versatile Web Developer, and zealous Competitive Programmer who loves to create innovative solutions that push boundaries and spark inspiration. But that's just the beginning of the journey into who I am. Here's a glimpse of me.</p>
 
-<hr>
-
-- 🌟 Engaging in collaborative discussions and problem-solving sessions is where I thrive the most.
-- 💡 Eagerly soaking up knowledge about emerging technologies, always ready to embrace new challenges.
-- 🤝 Enthusiastic about teamwork's unparalleled power to conquer challenges and achieve greatness.
-- 🚀 Currently, focused on exploring Web Technologies🕸️ and delving into Large Language Models📚.
-- 🎯 Setting my sights on mastering Machine Learning🧬 and Artificial Intelligence🧠.
-- 📧 Don't hesitate to drop me a message at parasbhardava26@gmail.com to connect and collaborate!
-
-<hr>
+<br>
  
 ### <p>Find out more about me & keep in touch with me here :<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
 
@@ -47,11 +38,21 @@
   </a>
 </p>
 
+
+<hr>
+
+- 🌟 Engaging in collaborative discussions and problem-solving sessions is where I thrive the most.
+- 💡 Eagerly soaking up knowledge about emerging technologies, always ready to embrace new challenges.
+- 🤝 Enthusiastic about teamwork's unparalleled power to conquer challenges and achieve greatness.
+- 🚀 Currently, focused on exploring Web Technologies🕸️ and delving into Large Language Models📚.
+- 🎯 Setting my sights on mastering Machine Learning🧬 and Artificial Intelligence🧠.
+- 📧 Don't hesitate to drop me a message at parasbhardava26@gmail.com to connect and collaborate!
+
 <hr>
 
 ### 👨🏻‍💻 Coding Profiles :
 
-<p align="center">
+<p>
   <a href="https://leetcode.com/paras7777/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>

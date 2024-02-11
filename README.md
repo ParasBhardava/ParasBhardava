@@ -1,7 +1,8 @@
 # Hi there, I'm Paras! Delighted by your presence here! <img width="40" height="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <img width="100%" src="images/background.jpg">
-<br><br>
+
+<br>
 
 <p align="justify">I'm Paras Bhardava. Welcome to my GitHub profile! I'm a passionate software engineer, Versatile Web Developer, and zealous Competitive Programmer who loves to create innovative solutions that push boundaries and spark inspiration. But that's just the beginning of the journey into who I am. Here's a glimpse of me.</p>
 
@@ -20,8 +21,8 @@
 
 <p align="center">
   <a href="mailto:parasbhardava26@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/ParasBhardava">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -69,4 +70,16 @@
   <a href="https://www.hackerrank.com/paras7777">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
+</p>
+
+<hr>
+
+[![Paras's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ParasBhardava&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ParasBhardava&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParasBhardava&hide_border=true&theme=radical" />	
 </p>

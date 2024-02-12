@@ -36,6 +36,12 @@
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ParasBhardava&style=flat-square" />
   </a>
+	<!-- <a href="https://img.shields.io/github/followers/ParasBhardava?label=follow&logo=github">
+    <img height="20" src="https://img.shields.io/github/followers/ParasBhardava?label=follow&logo=github" />
+	</a>
+  <a href="https://img.shields.io/github/stars/ParasBhardava?label=stars&logo=github">
+    <img height="20" src="https://img.shields.io/github/stars/ParasBhardava?label=stars&logo=github" />
+  </a> -->
 </div>
 
 

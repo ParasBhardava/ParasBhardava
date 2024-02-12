@@ -52,6 +52,8 @@
 
 ### 👨🏻‍💻 Coding Profiles :
 
+<br>
+
 <div>
   <a href="https://leetcode.com/paras7777/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
@@ -152,9 +154,11 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <hr>
+<br>
 
 [![Paras's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ParasBhardava&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> Stats
 
@@ -167,3 +171,5 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParasBhardava&theme=radical" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParasBhardava&theme=radical" />
 </div>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)

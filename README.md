@@ -10,7 +10,7 @@
  
 ### <p>Find out more about me & keep in touch with me here :<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
 
-<p align="center">
+<div align="center">
   <a href="mailto:parasbhardava26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -36,7 +36,7 @@
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ParasBhardava&style=flat-square" />
   </a>
-</p>
+</div>
 
 
 <hr>
@@ -52,7 +52,7 @@
 
 ### 👨🏻‍💻 Coding Profiles :
 
-<p>
+<div>
   <a href="https://leetcode.com/paras7777/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
@@ -71,7 +71,7 @@
   <a href="https://www.hackerrank.com/paras7777">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
-</p>
+</div>
 
 <hr>
 
@@ -158,7 +158,12 @@
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> Stats
 
-<p align="center">
+<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ParasBhardava&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParasBhardava&hide_border=true&theme=radical" />	
-</p>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParasBhardava&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParasBhardava&theme=radical" />
+</div>

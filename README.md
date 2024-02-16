@@ -61,7 +61,7 @@
 <br>
 
 <div>
-  <a href="https://leetcode.com/paras7777/">
+  <a href="https://leetcode.com/paras7777/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
   <a href="https://codeforces.com/profile/paras7777/">
